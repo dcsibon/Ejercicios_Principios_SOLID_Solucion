@@ -1,4 +1,4 @@
-## Ejercicio 05: Refactorización de un Sistema de Procesamiento de Pedidos Utilizando Genéricos
+## Ejercicio 05: Refactorización del Sistema de Procesamiento de Pedidos utilizando Genéricos
 
 ### **Contexto:**
 
