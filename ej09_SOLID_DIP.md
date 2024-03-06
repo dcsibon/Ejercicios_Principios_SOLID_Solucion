@@ -1,4 +1,4 @@
-## Ejercicio 2: Diseño de un Sistema de Inventario para un Juego RPG ("Role-Playing Game" Juego de Rol) Aplicando el DIP
+## Ejercicio 09: Diseño de un Sistema de Inventario para un Juego RPG ("Role-Playing Game" Juego de Rol) Aplicando el DIP
 
 ### Contexto y Requisitos
 
