@@ -1,8 +1,8 @@
-## Ejercicio 09: Diseño de un Sistema de Inventario para un Juego RPG ("Role-Playing Game" Juego de Rol) Aplicando el DIP
+## Ejercicio 09: Diseño de un Sistema de Inventario para un Juego RPG aplicando el DIP
 
 ### Contexto y Requisitos
 
-Estás diseñando un sistema de inventario para un juego de rol donde los jugadores pueden recoger, usar o intercambiar diversos objetos dentro del juego. Los objetos en el inventario pueden tener interacciones complejas: algunos objetos pueden ser combinados para crear nuevos objetos, otros son consumibles y algunos tienen efectos permanentes en el jugador.
+Estás diseñando un sistema de inventario para un juego de rol (("Role-Playing Game") donde los jugadores pueden recoger, usar o intercambiar diversos objetos dentro del juego. Los objetos en el inventario pueden tener interacciones complejas: algunos objetos pueden ser combinados para crear nuevos objetos, otros son consumibles y algunos tienen efectos permanentes en el jugador.
 
 Para cumplir con el DIP, el sistema de inventario debe ser capaz de manejar la diversidad de objetos sin depender directamente de implementaciones concretas para cada tipo de objeto.
 
