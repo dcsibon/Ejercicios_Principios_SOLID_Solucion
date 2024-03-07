@@ -1,4 +1,4 @@
-## Ejercicio: Sistema de Manejo de Documentos
+## Ejercicio 07: Sistema de Manejo de Documentos
 
 ### **Contexto:**
 
